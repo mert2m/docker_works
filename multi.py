@@ -13,3 +13,6 @@ def myapi():
     return "şu portta açıldı " + portname
 
 app.run(host='0.0.0.0',port=portname)
+
+
+#
